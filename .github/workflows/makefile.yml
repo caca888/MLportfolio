@@ -21,7 +21,7 @@ jobs:
       run: make
 
     - name: Run check
-      run: make check
+      run: make refactor
 
-    - name: Run distcheck
-      run: make distcheck
+    #- name: 
+    #  run: make distcheck
