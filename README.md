@@ -13,4 +13,4 @@
 
 ## CI Environment
 
-![CI Environment](img/CI.png)
+![CI Environment](/img/CI.PNG)
