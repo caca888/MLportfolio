@@ -7,5 +7,5 @@
 * add the virtual environment to bash shell ```vim ~/.bashrc```
 * create Makefile ```touch Makefile```
 * create requirements.txt ```touch requirements.txt```
-* create source directory ```mkdir src```
+* create source directory ```mkdir src``` with ```__init__.py``` for package include
 * create test directory ```mkdir test```
