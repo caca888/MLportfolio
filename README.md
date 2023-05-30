@@ -1,3 +1,5 @@
+[![Makefile CI](https://github.com/caca888/MLportfolio/actions/workflows/makefile.yml/badge.svg)](https://github.com/caca888/MLportfolio/actions/workflows/makefile.yml)
+
 # Porfolio Demo 
 
 ## Setup with Devlopment environment
