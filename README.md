@@ -9,3 +9,8 @@
 * create requirements.txt ```touch requirements.txt```
 * create source directory ```mkdir src``` with ```__init__.py``` for package include
 * create test directory ```mkdir test```
+
+
+## CI Environment
+
+![CI Environment](img/CI.png)
